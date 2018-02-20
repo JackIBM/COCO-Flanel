@@ -1,4 +1,5 @@
 # COCO-Flanel
 COCO pretrained example
 
-from url
+
+https://github.com/fizyr/keras-retinanet
