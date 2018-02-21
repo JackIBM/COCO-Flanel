@@ -1,0 +1,2 @@
+docker run --name COCO --privileged -it -p 8888:8888 -v /home/willem/Projects/COCO/:/notebooks/COCO tensorflow/tensorflow:latest-py3
+docker run --name COCO --privileged -it -p 8888:8888 -p 5000:5000 -v /home/willem/Projects/COCO/:/notebooks/COCO tensorflow/tensorflow:latest-py3
